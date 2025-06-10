@@ -1,1 +1,1 @@
-# Prediction_of_Employment_and_Customer_Behaviors
+This project explores the relationship between customer demographics, economic indicators, and employment trends. It uses data analysis and machine learning techniques to build predictive models for decision-making support, particularly for businesses and policymakers.
